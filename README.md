@@ -15,4 +15,4 @@ Users should be able to:
 
 ## Live preview
 
-Not yet finished
+[Meet landing page](https://ashleybradley.co.uk/projects/frontend-mentor/meet-landing-page/)
